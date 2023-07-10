@@ -6,4 +6,4 @@
 
 🚀 Within my repositories, you'll find an exciting collection of projects and contributions. I enjoy blending my design knowledge with programming to craft innovative solutions. 
 
-✨ At the moment I'm working on my personal portfolio website, and immersing myself in the world of Unreal Engine. Stay tuned for updates!
+✨ At the moment I'm working on my [personal portfolio website](emptykerr.github.io), and immersing myself in the world of Unreal Engine. Stay tuned for updates!

@@ -1,8 +1,8 @@
 # Matthew Kerr | Welcome to My GitHub Profile! 👋
 
-👋 Welcome to my GitHub profile! I'm thrilled to have you here. I'm passionate about writing Java code, constantly expanding my skill set, and exploring the world of design.
+👋 I'm passionate about writing Java code, constantly expanding my skill set, and exploring the world of design.
 
-🎓 Currently, I'm pursuing studies in industrial design, media design, and computer science. Additionally, I proudly serve as a computer science tutor at Victoria University of Wellington. 
+🎓 I'm pursuing studies in  Computer Science, Industrial design, and Media design. I proudly serve as a computer science tutor at Victoria University of Wellington. 
 
 🚀 Within my repositories, you'll find an exciting collection of projects and contributions. I enjoy blending my design knowledge with programming to craft innovative solutions. 
 

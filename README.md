@@ -1,6 +1,6 @@
 # Matthew Kerr | Welcome to My GitHub Profile! 👋
 
-🎓 I'm pursuing studies in  Computer Science, Industrial design, and Media design. I proudly serve as a Full-Stack intern at Fingermark and Computer Science Tutor at Victoria University of Wellington. 
+🎓 I'm pursuing studies in  Computer Science, Industrial design, and Media design. I proudly serve as a Full-Stack developer at Fingermark and Computer Science Tutor at Victoria University of Wellington. 
 
 🚀 Within my repositories, you'll find an exciting collection of projects and contributions. I enjoy blending my design knowledge with programming to craft innovative solutions. 
 
